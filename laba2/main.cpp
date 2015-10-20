@@ -10,4 +10,5 @@ int main()
     cin >> one;
     cout << "¬ведите второе число :";
     cin >> tho;
+    cout << "—умма двух чисел = " << one+tho ;
 }
