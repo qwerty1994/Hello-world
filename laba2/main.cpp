@@ -12,5 +12,5 @@ int main()
     cin >> tho;
     cout << "Сумма двух чисел = " << one+tho << endl ;
     cout << "Разность двух чисел = " << one-tho << endl;
-    cout << "Произведение двух чисел = " << one*tho;
+    cout << "Умножение вдух чисел  = " << one*tho;
 }
